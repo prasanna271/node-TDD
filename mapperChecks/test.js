@@ -2,3 +2,4 @@
 const calculator = require("../src/mapper/calculator");
 
 console.log(calculator('multiplication',1,2,3,4));
+it.todo("ignore this folder");
